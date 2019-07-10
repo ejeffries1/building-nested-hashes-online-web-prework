@@ -7,7 +7,7 @@ def fourth_challenge
       :hero_friends => [
         #your hashes here!
         friend_1 => {:name => "Benvolio", :age => "17", :attitude => "worried"}
-        {:name => "Mercutio", :age => "18", :attitude => "hot-headed"}
+        friend_2 => {:name => "Mercutio", :age => "18", :attitude => "hot-headed"}
       ]
    }, 
    :capulet => {
